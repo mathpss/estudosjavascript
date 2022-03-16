@@ -1,0 +1,4 @@
+const professores = ['Elias', 'Yuri', 'Gabriel', 'Guilherme', 'Yan'];
+const impressao = new ModuloDeImpressao();
+impressao.imprime(professores);
+
